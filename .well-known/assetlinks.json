@@ -17,7 +17,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "io.github.cc_bin.wordmaster",
+            "package_name": "com.cc.wordmaster",
             "sha256_cert_fingerprints": [
                 "C1:5B:39:AF:56:61:34:01:4F:17:F3:6C:A1:6B:83:CC:6F:48:8C:3C:57:ED:D8:1E:1A:0A:E9:00:B5:9F:01:07"
             ]
