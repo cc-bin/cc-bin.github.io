@@ -22,5 +22,17 @@
                 "F4:3D:74:B3:20:ED:E3:31:15:1B:30:4D:DC:77:7F:81:35:4E:A3:6E:A3:8D:03:FB:50:E5:2D:F9:DC:FD:06:F9"
             ]
         }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.deeplinktest",
+            "sha256_cert_fingerprints": [
+                "BB:AC:78:EF:37:2A:22:EC:F0:A0:E9:2E:E1:EF:33:7F:61:A2:54:7E:36:22:1C:9A:64:F4:1C:88:3D:58:27:47"
+            ]
+        }
     }
 ]
